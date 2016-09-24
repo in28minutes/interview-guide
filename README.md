@@ -42,6 +42,8 @@
 - Full Video on Design Patterns - https://www.youtube.com/watch?v=f5Rzr5mVNbY
 - Java EE Design Patterns - https://github.com/in28minutes/Java-EE-Design-Patterns/blob/master/JavaEE%20Design%20Patterns%20and%20Architecture%20-%20Presentation%20v0.7.pdf
 - Java Design Patterns - https://github.com/in28minutes/Design-Patterns-For-Beginners/blob/master/DesignPatterns-Presentation.pdf
+- RECOMMENDED COURSE
+- Java EE Patterns : https://www.udemy.com/java-ee-design-patterns-architecture-and-frameworks/?couponCode=JEEPATTERNS-UTUBE-1
 
 
 #Servlets
@@ -63,6 +65,11 @@
 - What is different between web server and application server?
 - What is difference between ServletConfig and ServletContext?
 - What is maven? What does it do? https://github.com/in28minutes/MavenIn28Minutes
+- RECOMMENDED COURSES
+- Java EE Patterns : https://www.udemy.com/java-ee-design-patterns-architecture-and-frameworks/?couponCode=JEEPATTERNS-UTUBE-1
+- Spring MVC : https://www.udemy.com/spring-mvc-tutorial-for-beginners-step-by-step/?couponCode=SPRNGMVC-UTUBE-1
+- JSP Servlets : https://www.udemy.com/learn-java-servlets-and-jsp-web-application-in-25-steps/?couponCode=JSPSRVLT-UTUBE-1
+- Maven : https://www.udemy.com/learn-maven-java-dependency-management-in-20-steps/?couponCode=MAVEN-UTUBE-1
 
 #JSPs
 - Reference - https://github.com/in28minutes/RealWorldWebApplicationWithServletsAndJspIn28Minutes/blob/master/Java%20JEE%20Web%20Applicaiton%20In28Minutes.pdf
@@ -83,7 +90,11 @@
 - JSP Best Practices
 - How can you avoid multiple submit problem?
 - What should I learn next?
-
+- RECOMMENDED COURSES
+- Spring MVC : https://www.udemy.com/spring-mvc-tutorial-for-beginners-step-by-step/?couponCode=SPRNGMVC-UTUBE-1
+- JSP Servlets : https://www.udemy.com/learn-java-servlets-and-jsp-web-application-in-25-steps/?couponCode=JSPSRVLT-UTUBE-1
+- Java EE Patterns : https://www.udemy.com/java-ee-design-patterns-architecture-and-frameworks/?couponCode=JEEPATTERNS-UTUBE-1
+- Maven : https://www.udemy.com/learn-maven-java-dependency-management-in-20-steps/?couponCode=MAVEN-UTUBE-1
 
 #Design Patterns
 - Full Video on Design Patterns - https://www.youtube.com/watch?v=f5Rzr5mVNbY
@@ -115,7 +126,11 @@
 - Template method (recognizeable by behavioral methods which already have a "default" behaviour definied by an abstract type)
 - All non-abstract methods of java.util.AbstractList, java.util.AbstractSet and java.util.AbstractMap.
 - What are important Java EE Design Patterns? https://github.com/in28minutes/Java-EE-Design-Patterns
-- Do our complete course!!!
+- RECOMMENDED COURSES
+- Java EE Patterns : https://www.udemy.com/java-ee-design-patterns-architecture-and-frameworks/?couponCode=JEEPATTERNS-UTUBE-1
+- Maven : https://www.udemy.com/learn-maven-java-dependency-management-in-20-steps/?couponCode=MAVEN-UTUBE-1
+- Spring MVC : https://www.udemy.com/spring-mvc-tutorial-for-beginners-step-by-step/?couponCode=SPRNGMVC-UTUBE-1
+- JSP Servlets : https://www.udemy.com/learn-java-servlets-and-jsp-web-application-in-25-steps/?couponCode=JSPSRVLT-UTUBE-1
 
 
 
@@ -141,7 +156,11 @@
 - What is Hibernate?
 - Hibernate interview Questions : https://www.youtube.com/watch?v=nb4kKVDc4cE
 - Introduction to Transaction Management : https://www.youtube.com/watch?v=HcjHJLEbtRs
-
+- RECOMMENDED COURSES
+- Java EE Patterns : https://www.udemy.com/java-ee-design-patterns-architecture-and-frameworks/?couponCode=JEEPATTERNS-UTUBE-1
+- Maven : https://www.udemy.com/learn-maven-java-dependency-management-in-20-steps/?couponCode=MAVEN-UTUBE-1
+- Spring MVC : https://www.udemy.com/spring-mvc-tutorial-for-beginners-step-by-step/?couponCode=SPRNGMVC-UTUBE-1
+- JSP Servlets : https://www.udemy.com/learn-java-servlets-and-jsp-web-application-in-25-steps/?couponCode=JSPSRVLT-UTUBE-1
 
 #J2EE
 - Everything from https://github.com/in28minutes/Java-EE-Design-Patterns/blob/master/JavaEE%20Design%20Patterns%20and%20Architecture%20-%20Presentation%20v0.7.pdf
@@ -170,6 +189,11 @@
 - What are important Java EE Design Patterns? https://github.com/in28minutes/Java-EE-Design-Patterns
 - What is maven? What does it do? https://github.com/in28minutes/MavenIn28Minutes
 - Introduction to Transaction Management : https://www.youtube.com/watch?v=HcjHJLEbtRs
+- RECOMMENDED COURSES
+- Java EE Patterns : https://www.udemy.com/java-ee-design-patterns-architecture-and-frameworks/?couponCode=JEEPATTERNS-UTUBE-1
+- Maven : https://www.udemy.com/learn-maven-java-dependency-management-in-20-steps/?couponCode=MAVEN-UTUBE-1
+- Spring MVC : https://www.udemy.com/spring-mvc-tutorial-for-beginners-step-by-step/?couponCode=SPRNGMVC-UTUBE-1
+- JSP Servlets : https://www.udemy.com/learn-java-servlets-and-jsp-web-application-in-25-steps/?couponCode=JSPSRVLT-UTUBE-1
 
 #Maven 
 - https://github.com/in28minutes/MavenIn28Minutes
@@ -193,6 +217,11 @@
 - What is a maven archetype?
 - What are maven best practices?
 - What is a maven release?
+- RECOMMENDED COURSES
+- Java EE Patterns : https://www.udemy.com/java-ee-design-patterns-architecture-and-frameworks/?couponCode=JEEPATTERNS-UTUBE-1
+- Maven : https://www.udemy.com/learn-maven-java-dependency-management-in-20-steps/?couponCode=MAVEN-UTUBE-1
+- Spring MVC : https://www.udemy.com/spring-mvc-tutorial-for-beginners-step-by-step/?couponCode=SPRNGMVC-UTUBE-1
+- JSP Servlets : https://www.udemy.com/learn-java-servlets-and-jsp-web-application-in-25-steps/?couponCode=JSPSRVLT-UTUBE-1
 
 #Eclipse
 - https://github.com/in28minutes/EclipseIn28Minutes
@@ -202,6 +231,11 @@
 - What are views?
 - What are perspectives?
 - Integration with Maven Full Course - https://www.youtube.com/watch?v=0CFWeVgzsqY
+- RECOMMENDED COURSES
+- Java EE Patterns : https://www.udemy.com/java-ee-design-patterns-architecture-and-frameworks/?couponCode=JEEPATTERNS-UTUBE-1
+- Maven : https://www.udemy.com/learn-maven-java-dependency-management-in-20-steps/?couponCode=MAVEN-UTUBE-1
+- Spring MVC : https://www.udemy.com/spring-mvc-tutorial-for-beginners-step-by-step/?couponCode=SPRNGMVC-UTUBE-1
+- JSP Servlets : https://www.udemy.com/learn-java-servlets-and-jsp-web-application-in-25-steps/?couponCode=JSPSRVLT-UTUBE-1
 
 
 #Jenkins
@@ -214,6 +248,11 @@
 - What are typical builds that you would create in jenkins?
 - What is maven? What does it do? https://github.com/in28minutes/MavenIn28Minutes
 - Maven Full Course - https://www.youtube.com/watch?v=0CFWeVgzsqY
+- RECOMMENDED COURSES
+- Java EE Patterns : https://www.udemy.com/java-ee-design-patterns-architecture-and-frameworks/?couponCode=JEEPATTERNS-UTUBE-1
+- Maven : https://www.udemy.com/learn-maven-java-dependency-management-in-20-steps/?couponCode=MAVEN-UTUBE-1
+- Spring MVC : https://www.udemy.com/spring-mvc-tutorial-for-beginners-step-by-step/?couponCode=SPRNGMVC-UTUBE-1
+- JSP Servlets : https://www.udemy.com/learn-java-servlets-and-jsp-web-application-in-25-steps/?couponCode=JSPSRVLT-UTUBE-1
 
 # For Later
 - Git
