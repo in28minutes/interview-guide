@@ -1,12 +1,12 @@
 #Best Java Interview Guide
-- 200 Java Interview Questions and Answers : http://udemy.com/java-interview-questions-and-answers
+- 200 Java Interview Questions and Answers : https://drive.google.com/open?id=0B8KENIDghuHAQmxtZVhwa1U5OTg
 
-#Our Best Paid Courses
-- Java EE Patterns : https://www.udemy.com/java-ee-design-patterns-architecture-and-frameworks/?couponCode=JEEPATTERNS-UTUBE-1
-- Spring MVC : https://www.udemy.com/spring-mvc-tutorial-for-beginners-step-by-step/?couponCode=SPRNGMVC-UTUBE-1
-- JSP Servlets : https://www.udemy.com/learn-java-servlets-and-jsp-web-application-in-25-steps/?couponCode=JSPSRVLT-UTUBE-1
-- Maven : https://www.udemy.com/learn-maven-java-dependency-management-in-20-steps/?couponCode=MAVEN-UTUBE-1
-- C Puzzles : https://www.udemy.com/c-puzzles-for-beginners/?couponCode=CPUZZLES-UTUBE-1
+#Our Best Courses
+- Refer our course guide : https://drive.google.com/open?id=0B8KENIDghuHAQmxtZVhwa1U5OTg
+- Java EE Patterns 
+- Spring MVC
+- JSP Servlets
+- Maven
 
 #Useful interview resources
 - Lambda Expressions and Streams : https://www.youtube.com/watch?v=7YBPb64h2l4
