@@ -1,14 +1,14 @@
-#Best Java Interview Guide
+# Best Java Interview Guide
 - 200 Java Interview Questions and Answers : https://drive.google.com/open?id=0B8KENIDghuHAQmxtZVhwa1U5OTg
 
-#Our Best Courses
+# Our Best Courses
 - Refer our course guide : https://drive.google.com/open?id=0B8KENIDghuHAQmxtZVhwa1U5OTg
 - Java EE Patterns 
 - Spring MVC
 - JSP Servlets
 - Maven
 
-#Useful interview resources
+# Useful interview resources
 - Lambda Expressions and Streams : https://www.youtube.com/watch?v=7YBPb64h2l4
 - Java MultiThreading : https://www.youtube.com/watch?v=AfVbJDr-8ic
 - Java Interview Questions and Answers : https://www.youtube.com/watch?v=5aHZABb1Iwk
@@ -49,7 +49,7 @@
 - RECOMMENDED COURSE
  - Java EE Patterns : https://www.udemy.com/java-ee-design-patterns-architecture-and-frameworks/?couponCode=JEEPATTERNS-UTUBE-1
 
-#Servlets
+# Servlets
 - Reference
  - https://github.com/in28minutes/RealWorldWebApplicationWithServletsAndJspIn28Minutes/blob/master/Java%20JEE%20Web%20Applicaiton%20In28Minutes.pdf
  - Code : https://github.com/in28minutes/JavaWebApplicationStepByStep
@@ -76,7 +76,7 @@
  - JSP Servlets : https://www.udemy.com/learn-java-servlets-and-jsp-web-application-in-25-steps/?couponCode=JSPSRVLT-UTUBE-1
  - Maven : https://www.udemy.com/learn-maven-java-dependency-management-in-20-steps/?couponCode=MAVEN-UTUBE-1
 
-#JSPs
+# JSPs
 - Reference 
  - https://github.com/in28minutes/RealWorldWebApplicationWithServletsAndJspIn28Minutes/blob/master/Java%20JEE%20Web%20Applicaiton%20In28Minutes.pdf
  - Code : https://github.com/in28minutes/JavaWebApplicationStepByStep
@@ -171,7 +171,7 @@
  - Spring MVC : https://www.udemy.com/spring-mvc-tutorial-for-beginners-step-by-step/?couponCode=SPRNGMVC-UTUBE-1
  - JSP Servlets : https://www.udemy.com/learn-java-servlets-and-jsp-web-application-in-25-steps/?couponCode=JSPSRVLT-UTUBE-1
 
-#J2EE
+# J2EE
 - Resources
  - Everything from https://github.com/in28minutes/Java-EE-Design-Patterns/blob/master/JavaEE%20Design%20Patterns%20and%20Architecture%20-%20Presentation%20v0.7.pdf
 - Questions
@@ -204,7 +204,7 @@
  - Spring MVC : https://www.udemy.com/spring-mvc-tutorial-for-beginners-step-by-step/?couponCode=SPRNGMVC-UTUBE-1
  - JSP Servlets : https://www.udemy.com/learn-java-servlets-and-jsp-web-application-in-25-steps/?couponCode=JSPSRVLT-UTUBE-1
 
-#Maven 
+# Maven 
 - Resources
  - https://github.com/in28minutes/MavenIn28Minutes
  - Maven : https://www.youtube.com/watch?v=0CFWeVgzsqY
@@ -252,7 +252,7 @@
  - JSP Servlets : https://www.udemy.com/learn-java-servlets-and-jsp-web-application-in-25-steps/?couponCode=JSPSRVLT-UTUBE-1
 
 
-#Jenkins
+# Jenkins
 - Resources
  - https://ci.jenkins-ci.org/job/Core/job/jenkins/job/master/ & https://builds.apache.org
  - http://jenkins-le-guide-complet.github.io/html/sect-first-steps-first-job.html
