@@ -26,14 +26,14 @@
 - https://github.com/in28minutes/Java-EE-Design-Patterns/blob/master/JavaEE%20Design%20Patterns%20and%20Architecture%20-%20Presentation%20v0.7.pdf
 
 
-#Our Best Free Courses
+# Our Best Free Courses
 - Spring : http://udemy.com/spring-tutorial-for-beginners/
 
-#OOPS Interview Questions
+# OOPS Interview Questions
 - Code Examples : https://github.com/in28minutes/JavaObjectOrientedProgramming
 - OOPS : https://www.youtube.com/watch?v=yJ5RSEZS9oA
 
-#Advanced Java
+# Advanced Java
 - Topics
  - Servlets
  - JSP
@@ -102,7 +102,7 @@
  - Java EE Patterns : https://www.udemy.com/java-ee-design-patterns-architecture-and-frameworks/?couponCode=JEEPATTERNS-UTUBE-1
  - Maven : https://www.udemy.com/learn-maven-java-dependency-management-in-20-steps/?couponCode=MAVEN-UTUBE-1
 
-#Design Patterns
+# Design Patterns
 - Resources
  - Full Video on Design Patterns : https://www.youtube.com/watch?v=f5Rzr5mVNbY
  - Java EE Design Patterns : https://github.com/in28minutes/Java-EE-Design-Patterns/blob/master/JavaEE%20Design%20Patterns%20and%20Architecture%20-%20Presentation%20v0.7.pdf
@@ -139,9 +139,7 @@
  - Spring MVC : https://www.udemy.com/spring-mvc-tutorial-for-beginners-step-by-step/?couponCode=SPRNGMVC-UTUBE-1
  - JSP Servlets : https://www.udemy.com/learn-java-servlets-and-jsp-web-application-in-25-steps/?couponCode=JSPSRVLT-UTUBE-1
 
-
-
-#JDBC
+# JDBC
 - Resources
  - Video : https://www.youtube.com/watch?v=1WgsDP10iqw
 - Questions
@@ -235,7 +233,7 @@
  - Spring MVC : https://www.udemy.com/spring-mvc-tutorial-for-beginners-step-by-step/?couponCode=SPRNGMVC-UTUBE-1
  - JSP Servlets : https://www.udemy.com/learn-java-servlets-and-jsp-web-application-in-25-steps/?couponCode=JSPSRVLT-UTUBE-1
 
-#Eclipse
+# Eclipse
 - Resources
  - https://github.com/in28minutes/EclipseIn28Minutes
  - Eclipse : https://www.youtube.com/watch?v=s4ShbtOHMCA
